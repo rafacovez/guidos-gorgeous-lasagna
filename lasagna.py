@@ -1,4 +1,6 @@
+"""declare expected bake time"""
 EXPECTED_BAKE_TIME = 40
+"""declare preparation time"""
 PREPARATION_TIME = 2
 
 def bake_time_remaining(time_elapsed):
